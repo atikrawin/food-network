@@ -19,6 +19,27 @@ body {
     margin-left: -90px;
 }
 
+.img {
+    margin-left: 300px;
+}
+
+.text-2nd {
+    margin-top: -130px;
+    margin-left: -400px;
+}
+
+.button-2nd {
+    background-image: linear-gradient(to left, red, orange);
+
+    padding: 30px 80px;
+    border-radius: 50px;
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    margin-top: 80px;
+    display: inline-block;
+}
+
 h1 {
     font-size: 90px;
 }
